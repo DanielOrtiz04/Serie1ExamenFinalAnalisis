@@ -1,0 +1,12 @@
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\bin\Debug\net10.0\ClienteApp.Core.deps.json
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\bin\Debug\net10.0\ClienteApp.Core.dll
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\bin\Debug\net10.0\ClienteApp.Core.pdb
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.csproj.AssemblyReference.cache
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.AssemblyInfoInputs.cache
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.AssemblyInfo.cs
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.csproj.CoreCompileInputs.cache
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.dll
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\refint\ClienteApp.Core.dll
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ClienteApp.Core.pdb
+D:\Descargas de Chrome\PruebasSoftware-pruebas\PruebasSoftware-main\ClienteApp\obj\Debug\net10.0\ref\ClienteApp.Core.dll
